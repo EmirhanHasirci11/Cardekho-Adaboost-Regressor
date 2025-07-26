@@ -1,6 +1,6 @@
 # Cardekho Used Car Price Prediction
 
-This project aims to predict the selling price of used cars using data obtained from [Cardekho.com](https://www.cardekho.com/). The project follows a standard machine learning workflow, including data cleaning, exploratory data analysis (EDA), feature engineering, and model training. The final model is an **AdaBoost Regressor** that has been fine-tuned using hyperparameter optimization to achieve the best performance.
+This project aims to predict the selling price of used cars using data obtained from Cardekho. The project follows a standard machine learning workflow, including data cleaning, exploratory data analysis (EDA), feature engineering, and model training. The final model is an **AdaBoost Regressor** that has been fine-tuned using hyperparameter optimization to achieve the best performance.
 
 ## 📊 Dataset Features
 
